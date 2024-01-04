@@ -1,0 +1,1758 @@
+[
+   
+    
+    
+   
+    
+    
+    
+   
+    
+    
+    
+    
+   
+   
+   
+    
+    
+    
+    
+  
+    
+    
+    
+    
+   
+    
+    
+    
+   
+    
+    
+   
+   
+   
+   
+   
+    
+   
+  
+   
+   
+    
+    
+   
+   
+   
+    
+   
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3514066281",
+        "Roe Dupont": "5.85",
+        "dividend Yield": "1.81",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8538278880",
+        "Roe Dupont": "8.08",
+        "dividend Yield": "3.05",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7217053038",
+        "Roe Dupont": "2.65",
+        "dividend Yield": "6.36",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2625307630",
+        "Roe Dupont": "6.69",
+        "dividend Yield": "4.41",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9626728113",
+        "Roe Dupont": "9.72",
+        "dividend Yield": "9.38",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3658385866",
+        "Roe Dupont": "4.47",
+        "dividend Yield": "9.17",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0187429141",
+        "Roe Dupont": "4.73",
+        "dividend Yield": "6.67",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7475554794",
+        "Roe Dupont": "2.21",
+        "dividend Yield": "2.28",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8039358066",
+        "Roe Dupont": "3.68",
+        "dividend Yield": "3.44",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1110725625",
+        "Roe Dupont": "6.42",
+        "dividend Yield": "6.45",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9776722820",
+        "Roe Dupont": "0.22",
+        "dividend Yield": "8.54",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3803175125",
+        "Roe Dupont": "7.96",
+        "dividend Yield": "8.58",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6105586655",
+        "Roe Dupont": "2.80",
+        "dividend Yield": "1.42",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7241108151",
+        "Roe Dupont": "5.90",
+        "dividend Yield": "8.30",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0504817215",
+        "Roe Dupont": "7.51",
+        "dividend Yield": "8.00",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2656603272",
+        "Roe Dupont": "5.47",
+        "dividend Yield": "4.27",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5276933802",
+        "Roe Dupont": "8.99",
+        "dividend Yield": "3.17",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9330313038",
+        "Roe Dupont": "5.84",
+        "dividend Yield": "8.33",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2250784574",
+        "Roe Dupont": "9.35",
+        "dividend Yield": "3.56",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9762868376",
+        "Roe Dupont": "9.43",
+        "dividend Yield": "5.49",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4450450107",
+        "Roe Dupont": "7.50",
+        "dividend Yield": "6.13",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3612708379",
+        "Roe Dupont": "8.40",
+        "dividend Yield": "4.67",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0433725774",
+        "Roe Dupont": "7.56",
+        "dividend Yield": "8.44",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9424563558",
+        "Roe Dupont": "3.84",
+        "dividend Yield": "9.19",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4651922494",
+        "Roe Dupont": "4.98",
+        "dividend Yield": "5.78",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1262439225",
+        "Roe Dupont": "7.21",
+        "dividend Yield": "3.75",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0378477053",
+        "Roe Dupont": "3.06",
+        "dividend Yield": "8.65",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3590891072",
+        "Roe Dupont": "2.94",
+        "dividend Yield": "9.64",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6710515187",
+        "Roe Dupont": "2.98",
+        "dividend Yield": "4.00",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8831165028",
+        "Roe Dupont": "9.23",
+        "dividend Yield": "8.49",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3757357740",
+        "Roe Dupont": "2.78",
+        "dividend Yield": "4.74",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3473303131",
+        "Roe Dupont": "2.65",
+        "dividend Yield": "1.66",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3722837519",
+        "Roe Dupont": "2.79",
+        "dividend Yield": "4.28",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0418513700",
+        "Roe Dupont": "2.31",
+        "dividend Yield": "2.04",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0002650935",
+        "Roe Dupont": "3.34",
+        "dividend Yield": "8.60",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4811596409",
+        "Roe Dupont": "8.24",
+        "dividend Yield": "4.98",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5676827386",
+        "Roe Dupont": "4.68",
+        "dividend Yield": "7.64",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6985478798",
+        "Roe Dupont": "3.13",
+        "dividend Yield": "9.94",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1386482572",
+        "Roe Dupont": "0.71",
+        "dividend Yield": "9.08",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9777874401",
+        "Roe Dupont": "4.02",
+        "dividend Yield": "9.47",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1065536461",
+        "Roe Dupont": "0.64",
+        "dividend Yield": "3.47",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8960867159",
+        "Roe Dupont": "0.68",
+        "dividend Yield": "2.10",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1729196992",
+        "Roe Dupont": "9.16",
+        "dividend Yield": "7.00",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9788628289",
+        "Roe Dupont": "4.38",
+        "dividend Yield": "7.69",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8872976615",
+        "Roe Dupont": "3.32",
+        "dividend Yield": "3.84",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2475993118",
+        "Roe Dupont": "0.37",
+        "dividend Yield": "1.94",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5208714828",
+        "Roe Dupont": "3.86",
+        "dividend Yield": "8.46",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1051723233",
+        "Roe Dupont": "4.82",
+        "dividend Yield": "9.78",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4867008600",
+        "Roe Dupont": "1.07",
+        "dividend Yield": "8.97",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3262424842",
+        "Roe Dupont": "3.29",
+        "dividend Yield": "2.02",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3848666641",
+        "Roe Dupont": "5.84",
+        "dividend Yield": "4.77",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3987056072",
+        "Roe Dupont": "4.98",
+        "dividend Yield": "9.44",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7693102657",
+        "Roe Dupont": "4.32",
+        "dividend Yield": "6.07",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4617267416",
+        "Roe Dupont": "9.81",
+        "dividend Yield": "3.38",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9205731163",
+        "Roe Dupont": "8.68",
+        "dividend Yield": "3.00",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3328015786",
+        "Roe Dupont": "8.24",
+        "dividend Yield": "8.68",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2729507327",
+        "Roe Dupont": "6.36",
+        "dividend Yield": "3.91",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5431547400",
+        "Roe Dupont": "1.85",
+        "dividend Yield": "8.03",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1286014122",
+        "Roe Dupont": "3.20",
+        "dividend Yield": "6.46",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8444248777",
+        "Roe Dupont": "8.12",
+        "dividend Yield": "2.87",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9189725418",
+        "Roe Dupont": "6.28",
+        "dividend Yield": "6.22",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8770245775",
+        "Roe Dupont": "4.40",
+        "dividend Yield": "2.66",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1509440690",
+        "Roe Dupont": "7.83",
+        "dividend Yield": "8.26",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5794666927",
+        "Roe Dupont": "7.44",
+        "dividend Yield": "1.24",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9473829827",
+        "Roe Dupont": "9.35",
+        "dividend Yield": "6.16",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9757336133",
+        "Roe Dupont": "0.61",
+        "dividend Yield": "7.96",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4515306550",
+        "Roe Dupont": "3.20",
+        "dividend Yield": "4.74",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6919131932",
+        "Roe Dupont": "0.24",
+        "dividend Yield": "6.69",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1120943102",
+        "Roe Dupont": "0.41",
+        "dividend Yield": "5.77",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0484660529",
+        "Roe Dupont": "5.31",
+        "dividend Yield": "5.41",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5942796244",
+        "Roe Dupont": "9.68",
+        "dividend Yield": "8.39",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7165739744",
+        "Roe Dupont": "5.90",
+        "dividend Yield": "6.29",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7925914493",
+        "Roe Dupont": "4.06",
+        "dividend Yield": "9.15",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3003818066",
+        "Roe Dupont": "0.09",
+        "dividend Yield": "5.77",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5754496965",
+        "Roe Dupont": "5.76",
+        "dividend Yield": "9.62",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8850702425",
+        "Roe Dupont": "5.88",
+        "dividend Yield": "1.24",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5711969295",
+        "Roe Dupont": "4.58",
+        "dividend Yield": "1.00",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3812260668",
+        "Roe Dupont": "7.56",
+        "dividend Yield": "5.78",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4980894856",
+        "Roe Dupont": "6.30",
+        "dividend Yield": "2.38",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5632083234",
+        "Roe Dupont": "9.34",
+        "dividend Yield": "6.82",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9230762085",
+        "Roe Dupont": "8.10",
+        "dividend Yield": "8.32",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1066661443",
+        "Roe Dupont": "6.08",
+        "dividend Yield": "9.96",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9201673312",
+        "Roe Dupont": "0.36",
+        "dividend Yield": "1.72",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9132860040",
+        "Roe Dupont": "2.10",
+        "dividend Yield": "3.77",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9964349763",
+        "Roe Dupont": "6.41",
+        "dividend Yield": "4.93",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1707165615",
+        "Roe Dupont": "5.71",
+        "dividend Yield": "7.42",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5302484433",
+        "Roe Dupont": "8.20",
+        "dividend Yield": "4.66",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3642198088",
+        "Roe Dupont": "8.29",
+        "dividend Yield": "4.67",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7282363025",
+        "Roe Dupont": "9.34",
+        "dividend Yield": "6.30",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0144125578",
+        "Roe Dupont": "8.45",
+        "dividend Yield": "3.13",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3661480820",
+        "Roe Dupont": "9.23",
+        "dividend Yield": "9.85",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9220964940",
+        "Roe Dupont": "8.58",
+        "dividend Yield": "1.55",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0352930325",
+        "Roe Dupont": "1.35",
+        "dividend Yield": "5.17",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9911562029",
+        "Roe Dupont": "6.46",
+        "dividend Yield": "8.23",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8150679604",
+        "Roe Dupont": "1.24",
+        "dividend Yield": "2.96",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5420765982",
+        "Roe Dupont": "0.75",
+        "dividend Yield": "2.51",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6027717406",
+        "Roe Dupont": "5.28",
+        "dividend Yield": "3.05",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9896202737",
+        "Roe Dupont": "4.20",
+        "dividend Yield": "8.48",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5464669252",
+        "Roe Dupont": "1.65",
+        "dividend Yield": "1.76",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8264366265",
+        "Roe Dupont": "8.44",
+        "dividend Yield": "8.54",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5026157096",
+        "Roe Dupont": "5.62",
+        "dividend Yield": "1.67",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0312778666",
+        "Roe Dupont": "2.91",
+        "dividend Yield": "6.31",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3252577223",
+        "Roe Dupont": "4.15",
+        "dividend Yield": "7.71",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4076021653",
+        "Roe Dupont": "7.79",
+        "dividend Yield": "6.95",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7966672417",
+        "Roe Dupont": "4.98",
+        "dividend Yield": "4.51",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5096014490",
+        "Roe Dupont": "1.62",
+        "dividend Yield": "6.71",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2850510911",
+        "Roe Dupont": "1.56",
+        "dividend Yield": "3.87",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1912706274",
+        "Roe Dupont": "7.55",
+        "dividend Yield": "3.64",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8311064124",
+        "Roe Dupont": "7.12",
+        "dividend Yield": "2.20",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3673435612",
+        "Roe Dupont": "5.45",
+        "dividend Yield": "1.30",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5620536135",
+        "Roe Dupont": "5.56",
+        "dividend Yield": "3.70",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0950385932",
+        "Roe Dupont": "6.14",
+        "dividend Yield": "8.10",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3736096820",
+        "Roe Dupont": "0.35",
+        "dividend Yield": "7.84",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1660195789",
+        "Roe Dupont": "3.56",
+        "dividend Yield": "3.17",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5976553443",
+        "Roe Dupont": "8.92",
+        "dividend Yield": "6.46",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8195606801",
+        "Roe Dupont": "3.34",
+        "dividend Yield": "8.86",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6649937267",
+        "Roe Dupont": "6.74",
+        "dividend Yield": "1.25",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8550317026",
+        "Roe Dupont": "8.98",
+        "dividend Yield": "2.69",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4482875260",
+        "Roe Dupont": "7.14",
+        "dividend Yield": "2.67",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9598303394",
+        "Roe Dupont": "2.82",
+        "dividend Yield": "8.36",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3154318292",
+        "Roe Dupont": "8.16",
+        "dividend Yield": "6.15",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4008532931",
+        "Roe Dupont": "4.01",
+        "dividend Yield": "9.43",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0506919172",
+        "Roe Dupont": "6.70",
+        "dividend Yield": "3.48",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9471016698",
+        "Roe Dupont": "4.71",
+        "dividend Yield": "4.96",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5331382098",
+        "Roe Dupont": "8.12",
+        "dividend Yield": "2.59",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8623712258",
+        "Roe Dupont": "6.79",
+        "dividend Yield": "5.86",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2620657086",
+        "Roe Dupont": "0.81",
+        "dividend Yield": "5.53",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2393079127",
+        "Roe Dupont": "2.68",
+        "dividend Yield": "9.84",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1229915131",
+        "Roe Dupont": "1.63",
+        "dividend Yield": "5.04",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5854832353",
+        "Roe Dupont": "8.35",
+        "dividend Yield": "9.99",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2137355846",
+        "Roe Dupont": "3.57",
+        "dividend Yield": "3.22",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8992351044",
+        "Roe Dupont": "7.90",
+        "dividend Yield": "2.71",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4241674112",
+        "Roe Dupont": "7.02",
+        "dividend Yield": "7.94",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2431804359",
+        "Roe Dupont": "1.80",
+        "dividend Yield": "2.69",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3221537701",
+        "Roe Dupont": "7.14",
+        "dividend Yield": "3.91",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7152519010",
+        "Roe Dupont": "8.22",
+        "dividend Yield": "1.21",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5585066439",
+        "Roe Dupont": "5.81",
+        "dividend Yield": "7.82",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3744740501",
+        "Roe Dupont": "3.97",
+        "dividend Yield": "6.35",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6756081528",
+        "Roe Dupont": "8.02",
+        "dividend Yield": "3.95",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8922738632",
+        "Roe Dupont": "9.04",
+        "dividend Yield": "9.26",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5176094908",
+        "Roe Dupont": "0.84",
+        "dividend Yield": "8.24",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8636088956",
+        "Roe Dupont": "6.20",
+        "dividend Yield": "2.38",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5109294207",
+        "Roe Dupont": "7.35",
+        "dividend Yield": "2.44",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1933443296",
+        "Roe Dupont": "6.94",
+        "dividend Yield": "9.01",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2260473799",
+        "Roe Dupont": "2.70",
+        "dividend Yield": "9.19",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2552662499",
+        "Roe Dupont": "6.61",
+        "dividend Yield": "2.77",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1510417386",
+        "Roe Dupont": "6.46",
+        "dividend Yield": "4.50",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4778497570",
+        "Roe Dupont": "1.04",
+        "dividend Yield": "9.59",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1203129144",
+        "Roe Dupont": "3.39",
+        "dividend Yield": "2.05",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9543238801",
+        "Roe Dupont": "3.00",
+        "dividend Yield": "1.28",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2822575040",
+        "Roe Dupont": "3.35",
+        "dividend Yield": "3.29",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1881652511",
+        "Roe Dupont": "0.43",
+        "dividend Yield": "1.09",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3272181876",
+        "Roe Dupont": "4.72",
+        "dividend Yield": "3.82",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6894979853",
+        "Roe Dupont": "9.48",
+        "dividend Yield": "9.34",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0023541301",
+        "Roe Dupont": "0.97",
+        "dividend Yield": "5.67",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8006575543",
+        "Roe Dupont": "3.73",
+        "dividend Yield": "6.89",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3618271273",
+        "Roe Dupont": "1.74",
+        "dividend Yield": "8.13",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7465436779",
+        "Roe Dupont": "1.13",
+        "dividend Yield": "2.31",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7636981609",
+        "Roe Dupont": "2.35",
+        "dividend Yield": "8.91",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2997099669",
+        "Roe Dupont": "8.21",
+        "dividend Yield": "2.67",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5422678781",
+        "Roe Dupont": "4.00",
+        "dividend Yield": "5.70",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8524959184",
+        "Roe Dupont": "9.22",
+        "dividend Yield": "1.26",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8485889071",
+        "Roe Dupont": "8.35",
+        "dividend Yield": "4.38",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6535276892",
+        "Roe Dupont": "0.10",
+        "dividend Yield": "1.23",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8166112719",
+        "Roe Dupont": "5.75",
+        "dividend Yield": "7.02",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0005357869",
+        "Roe Dupont": "2.08",
+        "dividend Yield": "4.64",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1985312779",
+        "Roe Dupont": "7.15",
+        "dividend Yield": "7.58",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1564838342",
+        "Roe Dupont": "0.74",
+        "dividend Yield": "9.73",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2634266761",
+        "Roe Dupont": "3.79",
+        "dividend Yield": "5.21",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1620285487",
+        "Roe Dupont": "8.15",
+        "dividend Yield": "7.64",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4324841143",
+        "Roe Dupont": "4.59",
+        "dividend Yield": "7.79",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6884980047",
+        "Roe Dupont": "6.22",
+        "dividend Yield": "6.43",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7447322950",
+        "Roe Dupont": "0.16",
+        "dividend Yield": "9.78",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2640705006",
+        "Roe Dupont": "7.14",
+        "dividend Yield": "2.30",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1086270514",
+        "Roe Dupont": "6.84",
+        "dividend Yield": "8.67",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7140245413",
+        "Roe Dupont": "8.66",
+        "dividend Yield": "9.59",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1167316033",
+        "Roe Dupont": "2.49",
+        "dividend Yield": "5.99",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6389958179",
+        "Roe Dupont": "5.72",
+        "dividend Yield": "9.24",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3125257092",
+        "Roe Dupont": "0.22",
+        "dividend Yield": "3.45",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3718194767",
+        "Roe Dupont": "3.72",
+        "dividend Yield": "2.98",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2689464476",
+        "Roe Dupont": "8.86",
+        "dividend Yield": "7.04",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3251275948",
+        "Roe Dupont": "5.23",
+        "dividend Yield": "2.25",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6104703104",
+        "Roe Dupont": "2.62",
+        "dividend Yield": "9.47",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4147947974",
+        "Roe Dupont": "8.53",
+        "dividend Yield": "4.97",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9423185374",
+        "Roe Dupont": "3.62",
+        "dividend Yield": "4.28",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7442507606",
+        "Roe Dupont": "0.63",
+        "dividend Yield": "2.27",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2177942389",
+        "Roe Dupont": "1.11",
+        "dividend Yield": "7.54",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7738844615",
+        "Roe Dupont": "7.45",
+        "dividend Yield": "3.30",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8221910884",
+        "Roe Dupont": "3.20",
+        "dividend Yield": "9.97",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2062655264",
+        "Roe Dupont": "2.31",
+        "dividend Yield": "3.48",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2269176445",
+        "Roe Dupont": "2.30",
+        "dividend Yield": "7.50",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2045195257",
+        "Roe Dupont": "6.30",
+        "dividend Yield": "4.78",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5860371672",
+        "Roe Dupont": "8.24",
+        "dividend Yield": "9.07",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2600426160",
+        "Roe Dupont": "5.63",
+        "dividend Yield": "4.73",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4078529308",
+        "Roe Dupont": "7.91",
+        "dividend Yield": "9.11",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3935505472",
+        "Roe Dupont": "3.66",
+        "dividend Yield": "2.84",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0526784358",
+        "Roe Dupont": "1.77",
+        "dividend Yield": "7.99",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3388703151",
+        "Roe Dupont": "6.91",
+        "dividend Yield": "7.42",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3342888160",
+        "Roe Dupont": "7.81",
+        "dividend Yield": "1.04",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8633756552",
+        "Roe Dupont": "1.78",
+        "dividend Yield": "1.47",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1097277215",
+        "Roe Dupont": "8.89",
+        "dividend Yield": "8.61",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8987127403",
+        "Roe Dupont": "6.62",
+        "dividend Yield": "5.87",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9068602929",
+        "Roe Dupont": "2.64",
+        "dividend Yield": "8.80",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5182294041",
+        "Roe Dupont": "3.05",
+        "dividend Yield": "8.42",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2893024007",
+        "Roe Dupont": "2.48",
+        "dividend Yield": "2.53",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9018591215",
+        "Roe Dupont": "6.12",
+        "dividend Yield": "2.55",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6469978728",
+        "Roe Dupont": "3.35",
+        "dividend Yield": "9.25",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4606624513",
+        "Roe Dupont": "3.05",
+        "dividend Yield": "1.12",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6859478311",
+        "Roe Dupont": "6.44",
+        "dividend Yield": "8.92",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4072746408",
+        "Roe Dupont": "7.64",
+        "dividend Yield": "5.71",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8968852526",
+        "Roe Dupont": "1.56",
+        "dividend Yield": "8.69",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3588006636",
+        "Roe Dupont": "1.43",
+        "dividend Yield": "4.42",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4143394505",
+        "Roe Dupont": "3.90",
+        "dividend Yield": "3.73",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2827141726",
+        "Roe Dupont": "7.34",
+        "dividend Yield": "9.38",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5652526230",
+        "Roe Dupont": "4.41",
+        "dividend Yield": "2.82",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3739719713",
+        "Roe Dupont": "0.33",
+        "dividend Yield": "5.44",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6365133134",
+        "Roe Dupont": "3.11",
+        "dividend Yield": "5.14",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2366840934",
+        "Roe Dupont": "0.60",
+        "dividend Yield": "6.50",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "4749104757",
+        "Roe Dupont": "5.43",
+        "dividend Yield": "2.91",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0178966370",
+        "Roe Dupont": "2.92",
+        "dividend Yield": "1.67",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0350558006",
+        "Roe Dupont": "8.13",
+        "dividend Yield": "7.09",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "2127214029",
+        "Roe Dupont": "4.57",
+        "dividend Yield": "8.06",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1029175280",
+        "Roe Dupont": "9.64",
+        "dividend Yield": "6.68",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3566734689",
+        "Roe Dupont": "2.67",
+        "dividend Yield": "8.72",
+        "valor libro": -2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "8402462310",
+        "Roe Dupont": "0.20",
+        "dividend Yield": "7.79",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1431619206",
+        "Roe Dupont": "8.62",
+        "dividend Yield": "5.09",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9943580296",
+        "Roe Dupont": "5.51",
+        "dividend Yield": "5.76",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "3441638543",
+        "Roe Dupont": "0.51",
+        "dividend Yield": "9.04",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0243849154",
+        "Roe Dupont": "5.90",
+        "dividend Yield": "3.23",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7999077243",
+        "Roe Dupont": "4.10",
+        "dividend Yield": "2.89",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5366625759",
+        "Roe Dupont": "2.33",
+        "dividend Yield": "2.68",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "1101742400",
+        "Roe Dupont": "6.35",
+        "dividend Yield": "2.91",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0064100784",
+        "Roe Dupont": "9.34",
+        "dividend Yield": "5.55",
+        "valor libro": 0
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6844831988",
+        "Roe Dupont": "2.44",
+        "dividend Yield": "1.54",
+        "valor libro": 1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "5038150792",
+        "Roe Dupont": "4.26",
+        "dividend Yield": "7.51",
+        "valor libro": 5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "6391866179",
+        "Roe Dupont": "1.08",
+        "dividend Yield": "6.58",
+        "valor libro": 3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9337622190",
+        "Roe Dupont": "9.54",
+        "dividend Yield": "4.16",
+        "valor libro": -3
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "7125271250",
+        "Roe Dupont": "6.95",
+        "dividend Yield": "2.65",
+        "valor libro": 2
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0863179664",
+        "Roe Dupont": "9.88",
+        "dividend Yield": "3.68",
+        "valor libro": -4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0643287751",
+        "Roe Dupont": "1.70",
+        "dividend Yield": "5.38",
+        "valor libro": -5
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "9091749934",
+        "Roe Dupont": "9.29",
+        "dividend Yield": "5.65",
+        "valor libro": -1
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0244557299",
+        "Roe Dupont": "1.06",
+        "dividend Yield": "1.83",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0672130499",
+        "Roe Dupont": "1.45",
+        "dividend Yield": "8.07",
+        "valor libro": 4
+    },
+    {
+        "date": "Jan 3rd 24",
+        "Ebitda": "0511639087",
+        "Roe Dupont": "1.35",
+        "dividend Yield": "1.35",
+        "valor libro": 4
+    }
+]
